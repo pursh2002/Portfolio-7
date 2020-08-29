@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hovys Lab</title>
+    <link>https://pursh2002.github.io/Portfolio-2/post/</link>
+    <description>Recent content in Projects on Hovys Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://pursh2002.github.io/Portfolio-2/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Classification of Heart Sound Recordings - The PhysioNet Computing in Cardiology Challenge 2016</title>
+      <link>https://pursh2002.github.io/Portfolio-2/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-2/post/project-1/</guid>
+      <description>The 2016 PhysioNet/CinC Challenge aims to encourage the development of algorithms to classify heart sound recordings collected from a variety of clinical or nonclinical (such as in-home visits) environments. The aim is to identify, from a single short recording (10-60s) from a single precordial location, whether the subject of the recording should be referred on for an expert diagnosis.
+  Link to Kaggle</description>
+    </item>
+    
+    <item>
+      <title>Classification service for trainee dermatologists to help diagnose skin diseases using a simple web app programmed in Python-3</title>
+      <link>https://pursh2002.github.io/Portfolio-2/post/project-2/</link>
+      <pubDate>Wed, 10 Apr 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-2/post/project-2/</guid>
+      <description>This is a project on skin cancer detection web app which has been implemented with flask framework and deployed on Heroku. The model has been built using fastai deep learning library which is a high level api for pytorch. The classifier has been trained using skin dataset collected from google and loaded to Kaggle which contains 400 images of three categories of pigmented skin lesions. The classifier has been built with transfer learning technique using a pretrained Densenet169 model.</description>
+    </item>
+    
+    <item>
+      <title>Kaggle competition on Plant Seedlings Classification</title>
+      <link>https://pursh2002.github.io/Portfolio-2/post/project-3/</link>
+      <pubDate>Sun, 11 Feb 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://pursh2002.github.io/Portfolio-2/post/project-3/</guid>
+      <description>Placed 537 out of 3000 parcipaint
+  Can you differentiate a weed from a crop seedling?
+  The ability to do so effectively can mean better crop yields and better stewardship of the environment.
+The Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, has recently released a dataset containing images of approximately 960 unique plants belonging to 12 species at several growth stages.</description>
+    </item>
+    
+  </channel>
+</rss>
